@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://stephendotexe.github.io/sitemap.xml 
+Sitemap: http://heystephenwood.com/sitemap.xml 
